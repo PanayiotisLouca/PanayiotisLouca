@@ -6,9 +6,9 @@ My research interests focus on integrating metabolomic and metagenomic data with
 
 🎓 Academic Background:
 
-PhD in Bioinformatics from King's College London
-MSc in Nutrition & Genetics from St. Mary's University, London
-BSc in Human Nutrition from Northumbria University
+PhD in Bioinformatics from King's College London, London, UK. </p>
+MSc in Nutrition & Genetics from St. Mary's University, London, UK. </p>
+BSc in Human Nutrition from Northumbria University, Newcastle, UK.
 
 💻 Current Focus:
 I'm currently exploring new ways to leverage metabolomic and metagenomic data to uncover biomarkers and pathways related to host health and intervention responses. Open to connections that have experience using transformer models.
