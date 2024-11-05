@@ -1,16 +1,26 @@
-## Hi there 👋
+### Hello! 👋 I'm a Researcher at the Department of Twin Research and Genetic Epidemiology, King's College London, London.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+My research interests focus on integrating metabolomic and metagenomic data with other omics datasets to identify biomarkers, pathways, and profiles related to host health and responses to interventions. C
 
-<!--
-**PanayiotisLouca/PanayiotisLouca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I use R and Python.
 
-Here are some ideas to get you started:
+🎓 Academic Background:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+PhD in Bioinformatics from King's College London
+MSc in Nutrition & Genetics from St. Mary's University, London
+BSc in Human Nutrition from Northumbria University
+
+💻 Current Focus:
+I'm currently exploring new ways to leverage metabolomic and metagenomic data to uncover biomarkers and pathways related to host health and intervention responses. Open to connections that have experience using transformer models.
+
+📫 Reach me through:
+
+
+Connect with me:
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+	<a href="https://www.linkedin.com/in/p-louca/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipeelia" height="30" /></a> &nbsp;
+</p>
+
+
