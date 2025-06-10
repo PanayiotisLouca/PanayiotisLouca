@@ -1,16 +1,29 @@
-## Hi there 👋
+ ### 🔬 About Me
+I'm Panayiotis Louca, a molecular epidemiologist currently at the Department of Twin Research and Genetic Epidemiology, King's College London.
 
-<!--
-**PanayiotisLouca/PanayiotisLouca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+### 🎯 Research Focus
 
-Here are some ideas to get you started:
+- 🧬 **Multi-omics Integration**: Combining metabolomic, metagenomic, and other omics datasets
+- 🔍 **Biomarker Discovery**: Identifying novel biomarkers for health and disease
+- 🛤️ **Pathway Analysis**: Uncovering biological pathways related to host health
+- 📊 **Intervention Response**: Studying individual responses to health interventions
+- 🤖 **AI/ML Applications**: Applying machine learning methods to biological data analysis
+---
+### 💻 Programming Languages
+<div align="left">
+<img src="https://www.r-project.org/Rlogo.png" width="48">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### 🎓 Academic Background
+| Degree | Institution |
+| ------ | ----------- |
+| PhD in Bioinformatics | King's College London, London, UK | 
+| MSc in Nutrition & Genetics | St. Mary's University, London, UK | 
+| BSc in Human Nutrition | Northumbria University, Newcastle, UK |
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### 📫 Reach me through LinkedIn</h3>
+[<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="48" />](https://www.linkedin.com/in/p-louca/)
+
